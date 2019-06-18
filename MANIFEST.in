@@ -1,0 +1,5 @@
+include README.rst CHANGELOG.txt LICENSE.txt
+include muddy/language/forestlib/system/services/*.policyml
+include muddy/language/forestlib/system/best_practices/*.policyml
+include muddy/language/forestlib/system/best_practices/*.graphml
+include muddy/templates/*.mako
