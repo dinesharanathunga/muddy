@@ -2,15 +2,13 @@
 muddy: IETF MUD file validator
 ==================================================================
 
-source available at - <insert Github link>
-installer available at - <insert SDIST link>
-
 Installer dependencies
 ----------------------
 
 netaddr==0.7.10,
 mako==0.8,
 ipaddr==2.1.11
+mgtoolkit>=1.0.16
 
 Pre-requisites
 ---------------
