@@ -31,7 +31,7 @@ setup(name="muddy",
       # List of packages that this one depends upon:
       install_requires = [
          'netaddr==0.7.10',
-         'mako==0.8',
+         'mako==1.3.12',
          'ipaddr==2.1.11',
          ],
 
